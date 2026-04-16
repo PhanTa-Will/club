@@ -1,0 +1,1 @@
+self.addWidget(self.view_page)
